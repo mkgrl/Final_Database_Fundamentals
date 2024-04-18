@@ -3,11 +3,16 @@
 
 ### Table of Contents
 
-1. [Relational Database](#relational-database)
-2. [One-to-One and Many-to-Many Relationships](#one-to-one-and-many-to-many-relationships)
-3. [SQL Subqueries and Sets](#sql-subqueries-and-sets)
-4. [Stored Procedures](#stored-procedures)
-5. [Views with the Same Logical Load](#views-with-the-same-logical-load)
+[1. Relational Database](#relational-database)
+
+[2. One-to-One and Many-to-Many Relationships](#one-to-one-and-many-to-many-relationships)
+
+[3. SQL Subqueries and Sets](#sql-subqueries-and-sets)
+
+[4. Stored Procedures](#stored-procedures)
+
+[5. Views with the Same Logical Load](#views-with-the-same-logical-load)
+
 
 ## Introduction
 
