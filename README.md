@@ -41,7 +41,7 @@ Welcome to the repository for the final paper of the Database Fundamentals cours
 
 <a name="one-to-one-and-many-to-many-relationships"></a> 
 ### Practical Assignment 2: 
-![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=%23FF0000 "progress")
+![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=20&leftFill=%23FF0000 "progress")
 
 Design a relational database for a football league system. The database should store information about teams, players, matches, goals, and standings. 
 A football league system is a hierarchy of leagues that compete in the same sport. Each league has a number of teams that play against each other in a round-robin format. The teams are ranked by points, goal difference, and goals scored. The top teams of each league may be promoted to a higher league, while the bottom teams may be relegated to a lower league
@@ -49,7 +49,7 @@ A football league system is a hierarchy of leagues that compete in the same spor
 
 <a name="sql-subqueries-and-sets"></a>
 ### Practical Assignment 3: 
-![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=60&leftFill=%23FF0000 "progress")
+![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=%23FF0000 "progress")
 
 To get more practice we need to write one SELECT query, one UPDATE query, and one DELETE query for the following list of clauses:
 
@@ -74,7 +74,7 @@ PR is prepared and the link is sent to your teacher
 
 <a name="stored-procedures"></a>
 ### Practical Assignment 4: 
-![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=60&leftFill=%23FF0000 "progress")
+![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=70&leftFill=%23FF0000 "progress")
 
 1. Prepare your own stored procedure which demonstrates how to work with all kinds of parameters: IN/OUT/INOUT. It is allowed to write multiple stored procedures with different kinds (for instance one is for IN/OUT and another one is for INOUT) if you find this way easier.
 
@@ -85,7 +85,7 @@ PR is prepared and the link is sent to your teacher
 
 <a name="views-with-the-same-logical-load"></a>
 ### Practical Assignment 5: 
-![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=60&leftFill=%23FF0000 "progress")
+![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%23FF0000 "progress")
 
 Create two different views with the same logical load: select standing table with latest data for tournament X and Y.
 
