@@ -16,7 +16,16 @@
 
 ## Introduction
 
-Welcome to the repository for the final paper of the Database Fundamentals course. In this paper, we delve into various aspects of database management, focusing particularly on relational databases, relationships, SQL subqueries, sets, stored procedures, and views.
+Hello everyone,
+
+I am delighted to introduce me, a bright and enthusiastic first-year student at KSE.
+
+Name: Maria Horai
+
+Occupation: Student
+
+Education: Currently enrolled as a first-year student at KSE (Kyiv School of Economics)
+Welcome to the repository for the final paper of the Database Fundamentals course. In this paper, we delve into various aspects of database management, focusing particularly on relational databases, relationships, SQL subqueries, sets, stored procedures, and views.  
 
  ## Content Overview
  ```
