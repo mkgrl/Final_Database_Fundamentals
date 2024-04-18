@@ -30,15 +30,16 @@ Welcome to the repository for the final paper of the Database Fundamentals cours
 4. **Stored Procedures**: We examine the concept of stored procedures, their advantages, and how they are used to execute frequently performed operations within the database.
    
 ```
-<a name="#relational-database"></a>
+<a name="relational-database"></a>
 ### Practical Assignment 1:
 ![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=60&leftFill=%23FF0000 "progress")
 
  Design a relational database for a football league system. The database should store information about teams, players, matches, goals, and standings. 
  A football league system is a hierarchy of leagues that compete in the same sport. Each league has a number of teams that play against each other in a round-robin format. The teams are ranked by points, goal difference, and goals scored. The top teams of each league may be promoted to a higher league, while the bottom teams may be relegated to a lower league. 
-<a name="#one-to-one-and-many-to-many-relationships"></a> 
-
 >Bonus: Join
+
+
+<a name="one-to-one-and-many-to-many-relationships"></a> 
 ### Practical Assignment 2: 
 ![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=%23FF0000 "progress")
 
@@ -46,7 +47,7 @@ Design a relational database for a football league system. The database should s
 A football league system is a hierarchy of leagues that compete in the same sport. Each league has a number of teams that play against each other in a round-robin format. The teams are ranked by points, goal difference, and goals scored. The top teams of each league may be promoted to a higher league, while the bottom teams may be relegated to a lower league
 >Bonus: Indexes
 
-<a name="#sql-subqueries-and-sets"></a>
+<a name="sql-subqueries-and-sets"></a>
 ### Practical Assignment 3: 
 ![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=60&leftFill=%23FF0000 "progress")
 
@@ -71,7 +72,7 @@ Every query includes a human-readable comment on what it is about
 PR is prepared and the link is sent to your teacher
 >Bonus: Write a simple .Net (or Python) application that communicates with your MySQL DB executing simple CRUD operations (four queries). Screenshots with code and execution results should be added to the Git repo in the new folder pa3_bonus.
 
-<a name="#stored-procedures"></a>
+<a name="stored-procedures"></a>
 ### Practical Assignment 4: 
 ![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=60&leftFill=%23FF0000 "progress")
 
@@ -82,7 +83,7 @@ PR is prepared and the link is sent to your teacher
 3. Demonstrate your knowledge of how to call procedures; demonstrate different results of your transaction completion depending on the logic. Procedure invocations should be placed into file pa4/executions.sql, scripts should be supported by readable comments of what is your intent and what is an expected result (in English).
 >Bonus: Demonstrate your knowledge of how to work with transactions using the application layer. Your application should include several operations initiated on the application layer and be executed in the scope of the same transaction.
 
-<a name="#views-with-the-same-logical-load"></a>
+<a name="views-with-the-same-logical-load"></a>
 ### Practical Assignment 5: 
 ![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=60&leftFill=%23FF0000 "progress")
 
